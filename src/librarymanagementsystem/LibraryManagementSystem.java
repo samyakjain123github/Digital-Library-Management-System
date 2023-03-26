@@ -16,6 +16,7 @@ public class LibraryManagementSystem {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("This is the digital library management project to be uploaded to github");
     }
     
 }
